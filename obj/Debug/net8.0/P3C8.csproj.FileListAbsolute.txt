@@ -1,0 +1,14 @@
+C:\Users\jorda\Desktop\formation developpeur web\C#\Learning from OC\cours 1\7973891-apprenez-a-programmer-en-c-741fb7d27d27cdfc093a6ee7a38d9646ce5d06ed\P3\P3C8\obj\Debug\net8.0\P3C8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorda\Desktop\formation developpeur web\C#\Learning from OC\cours 1\7973891-apprenez-a-programmer-en-c-741fb7d27d27cdfc093a6ee7a38d9646ce5d06ed\P3\P3C8\obj\Debug\net8.0\P3C8.AssemblyInfoInputs.cache
+C:\Users\jorda\Desktop\formation developpeur web\C#\Learning from OC\cours 1\7973891-apprenez-a-programmer-en-c-741fb7d27d27cdfc093a6ee7a38d9646ce5d06ed\P3\P3C8\obj\Debug\net8.0\P3C8.AssemblyInfo.cs
+C:\Users\jorda\Desktop\formation developpeur web\C#\Learning from OC\cours 1\7973891-apprenez-a-programmer-en-c-741fb7d27d27cdfc093a6ee7a38d9646ce5d06ed\P3\P3C8\obj\Debug\net8.0\P3C8.csproj.CoreCompileInputs.cache
+C:\Users\jorda\Desktop\formation developpeur web\C#\Learning from OC\cours 1\7973891-apprenez-a-programmer-en-c-741fb7d27d27cdfc093a6ee7a38d9646ce5d06ed\P3\P3C8\bin\Debug\net8.0\P3C8.exe
+C:\Users\jorda\Desktop\formation developpeur web\C#\Learning from OC\cours 1\7973891-apprenez-a-programmer-en-c-741fb7d27d27cdfc093a6ee7a38d9646ce5d06ed\P3\P3C8\bin\Debug\net8.0\P3C8.deps.json
+C:\Users\jorda\Desktop\formation developpeur web\C#\Learning from OC\cours 1\7973891-apprenez-a-programmer-en-c-741fb7d27d27cdfc093a6ee7a38d9646ce5d06ed\P3\P3C8\bin\Debug\net8.0\P3C8.runtimeconfig.json
+C:\Users\jorda\Desktop\formation developpeur web\C#\Learning from OC\cours 1\7973891-apprenez-a-programmer-en-c-741fb7d27d27cdfc093a6ee7a38d9646ce5d06ed\P3\P3C8\bin\Debug\net8.0\P3C8.dll
+C:\Users\jorda\Desktop\formation developpeur web\C#\Learning from OC\cours 1\7973891-apprenez-a-programmer-en-c-741fb7d27d27cdfc093a6ee7a38d9646ce5d06ed\P3\P3C8\bin\Debug\net8.0\P3C8.pdb
+C:\Users\jorda\Desktop\formation developpeur web\C#\Learning from OC\cours 1\7973891-apprenez-a-programmer-en-c-741fb7d27d27cdfc093a6ee7a38d9646ce5d06ed\P3\P3C8\obj\Debug\net8.0\P3C8.dll
+C:\Users\jorda\Desktop\formation developpeur web\C#\Learning from OC\cours 1\7973891-apprenez-a-programmer-en-c-741fb7d27d27cdfc093a6ee7a38d9646ce5d06ed\P3\P3C8\obj\Debug\net8.0\refint\P3C8.dll
+C:\Users\jorda\Desktop\formation developpeur web\C#\Learning from OC\cours 1\7973891-apprenez-a-programmer-en-c-741fb7d27d27cdfc093a6ee7a38d9646ce5d06ed\P3\P3C8\obj\Debug\net8.0\P3C8.pdb
+C:\Users\jorda\Desktop\formation developpeur web\C#\Learning from OC\cours 1\7973891-apprenez-a-programmer-en-c-741fb7d27d27cdfc093a6ee7a38d9646ce5d06ed\P3\P3C8\obj\Debug\net8.0\P3C8.genruntimeconfig.cache
+C:\Users\jorda\Desktop\formation developpeur web\C#\Learning from OC\cours 1\7973891-apprenez-a-programmer-en-c-741fb7d27d27cdfc093a6ee7a38d9646ce5d06ed\P3\P3C8\obj\Debug\net8.0\ref\P3C8.dll
